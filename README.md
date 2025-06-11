@@ -1,3 +1,5 @@
+
+javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/SCRIPT.js").then(t=>t.text()).then(eval);
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&text=Khan%20Destroyer&fontSize=40&fontAlignY=33&fontColor=01d2a0"/></a>
 
 ---
